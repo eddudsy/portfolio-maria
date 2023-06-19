@@ -227,4 +227,13 @@
     #headerClientText {
         text-align: center;
     }
+
+    #portfolioTitle {
+        margin-top: 30px;
+    }
+
+    .portfolioImg img{
+        height: 200px;
+    }
+
 }
